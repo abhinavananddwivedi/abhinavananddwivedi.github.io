@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## At IIM Kozhikode
+## IIM Kozhikode
 
 - Financial Modeling
   - Core
@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-## At IIM Bangalore
+## IIM Bangalore
 
 - Corporate Finance 
   - Core
