@@ -15,17 +15,34 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-- Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Kannan Raghunandan. Related Party Transactions and Audit Fees: Indian Evidence. *<u>Auditing: A Journal of Practice & Theory</u>*, *Forthcoming*
+- Abhinav Anand, Xing Huan and Jalaj Pathak. 
+10-K Readability and Shareholder Proposals on Corporate Governance. 
+*<u>Corporate Governance: An International Review</u>*, *Forthcoming*
+- Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Dasaratha V Rama. 
+How Do Auditors in India Respond to Related Party Transactions? 
+*<u>Current Issues in Auditing</u>*, *Forthcoming*
+- Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Kannan Raghunandan. 
+Related Party Transactions and Audit Fees: Indian Evidence. 
+*<u>Auditing: A Journal of Practice & Theory</u>*, 1--21. (2024)
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139071)
-- Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. *<u>Operations Research Letters</u>*, 51, 47-53. (2023).
+- Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. 
+*<u>Operations Research Letters</u>*, 51, 47-53. (2023).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4287321)
-- Abhinav Anand and Jalaj Pathak. The Role of Reddit in the GameStop Short Squeeze. *<u>Economics Letters</u>*, 211 (C), (2022).
+- Abhinav Anand and Jalaj Pathak. The Role of Reddit in the GameStop Short Squeeze. 
+*<u>Economics Letters</u>*, 211 (C), (2022).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873099)
-- Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. Whose speeches impact European markets: ECB's or the national central banks'? *<u>European Financial Management</u>*, 28, 1413– 1476. (2022).
+- Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. 
+Whose speeches impact European markets: ECB's or the national central banks'? 
+*<u>European Financial Management</u>*, 28, 1413– 1476. (2022).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3831782)
-- Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. The impact of sentiment on emerging stock markets. *<u>International Review of Economics and Finance</u>*, 75, 161–177, (2021).
+- Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. 
+The impact of sentiment on emerging stock markets. 
+*<u>International Review of Economics and Finance</u>*, 75, 161–177, (2021).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708433)
-- Abhinav Anand, Tiantian Li, Tetsuo Kurosaki, and Young Shin Kim. The Equity Risk Posed by the Too-Big-to-Fail Banks: A Foster-Hart Estimation. *<u>Annals of Operations Research</u>*, 253 (1), 21–41, (2017).
+- Abhinav Anand, Tiantian Li, Tetsuo Kurosaki, and Young Shin Kim. 
+The Equity Risk Posed by the Too-Big-to-Fail Banks: A Foster-Hart Estimation. 
+*<u>Annals of Operations Research</u>*, 253 (1), 21–41, (2017).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2753627)
-- Abhinav Anand, Tiantian Li, Tetsuo Kurosaki, and Young Shin Kim. Foster-Hart optimal portfolios. *<u>Journal of Banking & Finance</u>*, 68, 117–130, (2016).
+- Abhinav Anand, Tiantian Li, Tetsuo Kurosaki, and Young Shin Kim. Foster-Hart optimal portfolios. 
+*<u>Journal of Banking & Finance</u>*, 68, 117–130, (2016).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2753620)

@@ -28,8 +28,6 @@ author_profile: true
   - with Souvik Dutta, Tarun Jain and Prithwiraj Mukherjee
   
 
-5. Does poor 10-K readability elicit more shareholder proposals?
-  - with Xing Huan and Jalaj Pathak
 
 7. Import tax evasion in cross-border e-commerce
   - with Souvik Dutta, Tarun Jain and Prithwiraj Mukherjee  
