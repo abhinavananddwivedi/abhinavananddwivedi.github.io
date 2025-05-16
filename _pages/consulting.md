@@ -5,13 +5,13 @@ permalink: /consulting/
 author_profile: true
 ---
 
-- Insolvency and Bankruptcy Board of India [2024--ongoing]
+- Insolvency and Bankruptcy Board of India [2024--2025]
   - Behavioral impact of the Insolvency and Bankruptcy Code 
   
 - DBS Bank Limited [2023]
   - Statistical modeling for evaluating the impact of nudges
 
-- Federal Bank [2022--ongoing]
+- Federal Bank [2022]
   - Derivatives and exotic options
   - Risk model validation
 
