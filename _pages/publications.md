@@ -18,6 +18,7 @@ author_profile: true
 - Abhinav Anand, Xing Huan and Jalaj Pathak. 
 10-K Readability and Shareholder Proposals on Corporate Governance. 
 *<u>Corporate Governance: An International Review</u>*, *Forthcoming*
+  - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5238010)
 - Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Dasaratha V Rama. 
 How Do Auditors in India Respond to Related Party Transactions? 
 *<u>Current Issues in Auditing</u>*, *Forthcoming*
