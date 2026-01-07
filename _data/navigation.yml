@@ -12,6 +12,9 @@ main:
   - title: "Consulting"
     url: /consulting/
     
+  - title: "Book"
+    url: /book/
+    
   # - title: "CV"
   #   url: /cv/
 
