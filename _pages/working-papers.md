@@ -38,7 +38,7 @@ author_profile: true
 
 1. Seeking Alpha: More Sophisticated Than Meets the Eye
   - with Duo (Selina) Pei and Xing Huan 
-3. The semantic complexity of Federal Reserve communication
+3. Federal Reserve Speeches and the FOMC risk premium
   - with Hitesh Doshi and Jalaj Pathak
 4. When Less Is More: Board Gender Diversity, Climate Risk Disclosure, and Environmental Performance
   - with Jalaj Pathak, Arun Upadhyay and Chi Zhang
