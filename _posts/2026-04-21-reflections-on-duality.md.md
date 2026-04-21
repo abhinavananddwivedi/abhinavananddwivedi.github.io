@@ -1,0 +1,98 @@
+---
+title: "Reflections on Duality"
+date: 2026-04-21
+categories: notes
+permalink: /notes/reflections-on-duality/
+use_math: true
+---
+
+Every duality result answers one question: given a space of states, 
+what are all the ways to assign weights to those states and collapse them into 
+a single number? The dual space $$V^*$$ is the totality of such weighting 
+schemes. The bilinear pairing $$\langle \varphi, x \rangle = \varphi(x)$$ is 
+the aggregation step.
+
+In finite dimensions this is trivial — $$V^* \cong V$$, every functional is an 
+inner product with a fixed vector, and the aggregation operator is summation. 
+In infinite dimensions, the weighting schemes grow more singular, the 
+aggregation operators require more careful construction, and the 
+representation theorems that concretely identify $$V^*$$ become genuine results.
+
+---
+
+## The Progression
+
+The dual spaces of successively more general function spaces form a chain:
+
+| **Primal Space** | **Dual Space** | **Aggregation** | **Key Theorem** |
+|---|---|---|---|
+| $$\mathbb{R}^n$$ | $$\mathbb{R}^n$$ | Finite sum | Linear algebra |
+| $$\ell^p$$ | $$\ell^q$$ | Series | Hölder's inequality |
+| $$L^p(\mu)$$ | $$L^q(\mu)$$ | $$\int f g \, d\mu$$ | Radon–Nikodym |
+| $$C_0(X)$$ | $$\mathcal{M}(X)$$ | $$\int f \, d\mu$$ | Riesz–Markov |
+| $$C_c^\infty$$ | Distributions | $$\langle T, \phi \rangle$$ | Distribution theory |
+
+The aggregation mechanism generalizes at each step: finite sums $$\to$$ 
+series $$\to$$ integration against densities $$\to$$ integration against 
+measures $$\to$$ distributional pairings. The representation theorems in the 
+rightmost column are the substance — they establish that the abstractly defined 
+dual (all bounded linear functionals) is isomorphic to something concrete.
+
+## Measures Are Not Functionals
+
+A linear functional eats a function and returns a scalar. A measure eats a 
+measurable set and returns a scalar. These are different types of maps on 
+different types of inputs, and a $$\sigma$$-algebra is not a vector space.
+
+The bridge is integration. Given a measure $$\mu$$, one constructs a functional:
+
+$$\varphi_\mu(f) = \int f \, d\mu$$
+
+The map $$\mu \mapsto \varphi_\mu$$ converts a set function into a linear 
+functional on a function space. The content of Riesz–Markov is that this map 
+is a bijection. So measures and functionals are identified *by theorem*, not 
+by definition. Integration is the morphism that changes the category — from 
+objects acting on sets to objects acting on functions.
+
+This also pins down the role of Lebesgue's construction: Riemann integration 
+converts some measures into some functionals, but only Lebesgue integration is 
+general enough to make the correspondence exhaustive.
+
+## When Measures Have Densities
+
+The $$L^p$$ dualities give densities — functions $$g \in L^q$$ such 
+that $$\varphi(f) = \int fg \, d\mu$$. But this requires the representing 
+measure to be absolutely continuous with respect to some reference measure. 
+Absolute continuity of $$\nu$$ with respect to $$\mu$$ ($$\nu \ll \mu$$) means 
+precisely that every $$\mu$$-null set is also $$\nu$$-null — the two measures 
+agree on which sets are negligible. When this holds, Radon–Nikodym guarantees 
+a density $$g$$ such that $$d\nu = g \, d\mu$$. When it fails — as with the 
+Dirac mass $$\delta_x$$ or the Cantor measure relative to Lebesgue measure — no such density exists.
+
+The hierarchy:
+
+$$\text{linear functional} \xleftarrow{\text{Riesz–Markov}} \text{measure} \xrightarrow[\text{when abs. cont.}]{\text{Radon–Nikodym}} \text{density}$$
+
+Radon–Nikodym bridges the measure and density levels. When it applies, 
+the weighting scheme admits a pointwise representation. When it doesn't, 
+the measure is the most concrete form available.
+
+But "no density" is relative to the function space. The Dirac mass has no 
+density in $$L^q$$, yet in the space of distributions — the dual of 
+$$C_c^\infty$$ — it *is* a density, the Dirac delta $$\delta_x$$. The move to 
+distributions is precisely what allows every measure (and much more besides) 
+to be treated as a generalized density. This is part of why the distributional 
+level sits at the bottom of the table above: it is the setting where the density 
+representation finally becomes universal.
+
+## Summary
+
+Duality across linear algebra, functional analysis, and measure theory is not a 
+chain of analogies. It is a single question — *what are the weighting schemes, 
+and how do they aggregate?* — refracted through spaces of increasing generality,
+with representation theorems serving as the prisms. The row-column convention 
+from finite dimensions is a useful mnemonic for the pairing structure, but the
+content lives in the pairing 
+$$\langle \cdot, \cdot \rangle : V^* \times V \to \mathbb{R}$$ 
+and in the specific theorems (Radon–Nikodym, Riesz–Markov) that make the 
+identification between abstract functionals and concrete objects constructive.
