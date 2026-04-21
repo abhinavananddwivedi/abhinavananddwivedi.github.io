@@ -15,6 +15,9 @@ main:
   - title: "Book: Stochastic Calculus"
     url: /book/
     
+  - title: "Notes"
+    url: /notes/
+    
   # - title: "CV"
   #   url: /cv/
 
